@@ -1,6 +1,7 @@
+<img aling="right" alt="animatio" width="700" height="500" src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=6c09b952hjugkzecsbriqcc98mxuel1km9cyk238b4j4uwpj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 # 👋 Halo Friends!, I'm **Fahri**, a student and prospective **AI Engineer** 🚀
 🔭 I’m currently learning Neural Network and NLP<br><br>🌱 I’m currently learning Data,Math,Analystc,AI etc.<br><br>👯 I want to make friends with anyone<br><br>🤝 I’m looking for help with expert in the fields of data scientists and AI<br><br>💬 Ask me about Data Scient and AI<br><br>📫 How to reach me nonameanonim543@gmail.com
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/v3zeSGb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fakhri-aa1b42324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nonameanonim543@gmail.com) 
